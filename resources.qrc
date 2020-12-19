@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>shot.wav</file>
+        <file>step.wav</file>
+        <file>collect.wav</file>
+        <file>success.wav</file>
+        <file>bite.wav</file>
+        <file>game.mp3</file>
+        <file>failure.wav</file>
+    </qresource>
+    <qresource prefix="/sprites">
+        <file>gems.png</file>
+        <file>mummy.png</file>
+        <file>wall.png</file>
+        <file>player.png</file>
+    </qresource>
+    <qresource prefix="/levels">
+        <file>1</file>
+        <file>2</file>
+        <file>3</file>
+        <file>4</file>
+        <file>5</file>
+        <file>6</file>
+        <file>7</file>
+        <file>8</file>
+        <file>9</file>
+        <file>10</file>
+    </qresource>
+</RCC>
